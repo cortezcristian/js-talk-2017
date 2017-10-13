@@ -30,5 +30,8 @@
         "facts-js-server-side.html",
         "facts-npm.html"
     ],
-    "facts-ryan-left.html"
+    "facts-ryan-left.html",
+    "facts-quick-summary.html",
+    "facts-npm-publish.html",
+    "facts-npm-dumb-packages.html"
 ]
