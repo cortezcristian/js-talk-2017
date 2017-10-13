@@ -24,8 +24,11 @@
         "js.html",
         "facts-v8.html",
         "facts-ryan-dahl.html",
-        "facts-npm.html",
+        "facts-hello-world.html",
         "facts-http-server.html",
-        "facts-js-all-the-way-down.html"
-    ]
+        "facts-js-all-the-way-down.html",
+        "facts-js-server-side.html",
+        "facts-npm.html"
+    ],
+    "facts-ryan-left.html"
 ]
