@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "FullStack JS Dev in 2017",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "cortezcristian",
+    "githubRepository": "js-talk-2017"
+  }
+}
