@@ -4,10 +4,14 @@
         "life.html",
         "life-dev-no-life.html",
         "life-wfh.html",
+        "life-social-networks.html",
         "life-recruiters-persecution.html",
-        "life-social-networks.html"
+        "life-offers.html",
+        "life-ask-recruiters.html",
+        "life-world-without-recruiters.html",
+        "life-offer-analysis.html",
+        "life-offer-analysis-implicit.html"
     ],
     "why.html",
-    "js.html",
-    "life-offers.html"
+    "js.html"
 ]
