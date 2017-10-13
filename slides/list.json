@@ -34,6 +34,7 @@
         "facts-npm-dumb-packages.html",
         "facts-awesome-nodejs.html",
         "facts-npm-publish.html",
-        "facts-npm-community-success.html"
+        "facts-npm-community-success.html",
+        "facts-most-used-dependencies.html"
     ]
 ]
