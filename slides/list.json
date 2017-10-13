@@ -28,10 +28,12 @@
         "facts-http-server.html",
         "facts-js-all-the-way-down.html",
         "facts-js-server-side.html",
-        "facts-npm.html"
-    ],
-    "facts-ryan-left.html",
-    "facts-quick-summary.html",
-    "facts-npm-publish.html",
-    "facts-npm-dumb-packages.html"
+        "facts-npm.html",
+        "facts-ryan-left.html",
+        "facts-quick-summary.html",
+        "facts-npm-dumb-packages.html",
+        "facts-awesome-nodejs.html",
+        "facts-npm-publish.html",
+        "facts-npm-community-success.html"
+    ]
 ]

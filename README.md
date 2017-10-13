@@ -19,6 +19,7 @@ JS Talk 2017
     - DavidDM nube
     - Y la base de datos??? Como llego ahi?
 
+- One line module joke https://twitter.com/ForrestTheWoods/status/712786258234183680
 - Hard tip
     - Aprende a usar el debugger
     - TDD ayuda a pensar
