@@ -1,5 +1,8 @@
 [
-    "index.md",
+    [
+        "index.md",
+        "life-about-me.html"
+    ],
     [
         "life.html",
         "life-dev-no-life.html",
@@ -14,11 +17,15 @@
         "life-offer-analysis-implicit.html",
         "life-too-much-work.html",
         "2017-survey.html",
-        "why.html"
+        "why.html",
+        "life-we-see-the-code.html"
     ],
-    "js.html",
-    "facts-ryan-dahl.html",
-    "facts-npm.html",
-    "facts-http-server.html",
-    "facts-v8.html"
+    [
+        "js.html",
+        "facts-v8.html",
+        "facts-ryan-dahl.html",
+        "facts-npm.html",
+        "facts-http-server.html",
+        "facts-js-all-the-way-down.html"
+    ]
 ]
