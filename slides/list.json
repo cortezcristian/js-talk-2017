@@ -38,9 +38,13 @@
         "facts-most-used-dependencies.html"
     ],
     "tips-survival-tips.html",
-    "tips-not-just-search-be-picky.html",
+    [
+        "tips-not-just-search-be-picky.html",
+        "tips-1-common-mistakes.html"
+    ],
     "tips-be-open-to-learn-from-others.html",
     "tips-be-lazy.html",
     "tips-know-yourself.html",
-    "tips-enjoy-your-journey.html"
+    "tips-enjoy-your-journey.html",
+    "tips-2-common-mistakes.html"
 ]
