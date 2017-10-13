@@ -10,10 +10,15 @@
         "life-ask-recruiters.html",
         "life-world-without-recruiters.html",
         "life-offer-analysis.html",
+        "life-js-everywhere.html",
         "life-offer-analysis-implicit.html",
         "life-too-much-work.html",
         "2017-survey.html",
         "why.html"
     ],
-    "js.html"
+    "js.html",
+    "facts-ryan-dahl.html",
+    "facts-npm.html",
+    "facts-http-server.html",
+    "facts-v8.html"
 ]
