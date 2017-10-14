@@ -1,0 +1,16 @@
+<h2>Mongo DB</h2>
+
+<div>El siguiente QUERY...</div>
+<pre><code data-trim="" contenteditable="" style="font-size: 20px; margin-top: 20px;">
+       UPDATE users SET online = false WHERE name = "Alfa"
+        
+</code></pre>
+
+<div>...en MongoDB se haría asi:</div>
+<pre><code data-trim="" contenteditable="" style="font-size: 20px; margin-top: 20px;">
+        db.users.update(
+           { name: "Alfa" } ,
+           { $set: { online: false } },
+           { multi: true }
+        )        
+</code></pre>

@@ -63,5 +63,19 @@
         "tips-5-map.html"
     ],
     "thanks.html",
-    "ruffle.html"
+    "ruffle.html",
+    "mongo-intro.html",
+    "mongo-terms.html",
+    "mongo-bson.html",
+    "mongo-docs.html",
+    "mongo-json.html",
+    "mongo-index.html",
+    "mongo-files.html",
+    "mongo-basic-cmds.html",
+    "mongo-queries.html",
+    "mongo-sample-query.html",
+    "accesibility-and-ui-ux.html",
+    "mongo-odm.html",
+    "dont-make-me-think.html",
+    "mongo-mongoose.html"
 ]
