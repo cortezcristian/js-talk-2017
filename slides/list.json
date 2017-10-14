@@ -34,6 +34,32 @@
         "facts-npm-dumb-packages.html",
         "facts-awesome-nodejs.html",
         "facts-npm-publish.html",
-        "facts-npm-community-success.html"
+        "facts-npm-community-success.html",
+        "facts-most-used-dependencies.html"
+    ],
+    "tips-survival-tips.html",
+    [
+        "tips-not-just-search-be-picky.html",
+        "tips-1-common-mistakes.html",
+        "tips-1-quality-indicators.html"
+    ],
+    [
+        "tips-be-open-to-learn-from-others.html",
+        "tips-2-common-mistakes.html",
+        "tips-2-git.html"
+    ],
+    [
+        "tips-be-lazy.html",
+        "tips-3-common-mistakes.html",
+        "tips-3-kiss.html"
+    ],
+    [
+        "tips-know-yourself.html",
+        "tips-4-common-mistakes.html",
+        "tips-4-gtd.html"
+    ],
+    [
+        "tips-enjoy-your-journey.html",
+        "tips-5-map.html"
     ]
 ]
