@@ -35,7 +35,22 @@
         "facts-awesome-nodejs.html",
         "facts-npm-publish.html",
         "facts-npm-community-success.html",
-        "facts-most-used-dependencies.html"
+        "facts-most-used-dependencies.html",
+        "mongo-intro.html",
+        "mongo-terms.html",
+        "mongo-bson.html",
+        "mongo-docs.html",
+        "mongo-json.html",
+        "mongo-index.html",
+        "mongo-files.html",
+        "mongo-basic-cmds.html",
+        "mongo-queries.html",
+        "mongo-sample-query.html",
+        "mongo-odm.html",
+        "mongo-mongoose.html",
+        "accesibility-and-ui-ux.html",
+        "dont-make-me-think.html",
+        "fullstack-head.html"
     ],
     "tips-survival-tips.html",
     [
