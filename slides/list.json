@@ -60,12 +60,14 @@
     ],
     [
         "tips-be-open-to-learn-from-others.html",
+        "be-open.html",
         "tips-2-common-mistakes.html",
         "tips-2-git.html"
     ],
     [
         "tips-be-lazy.html",
         "tips-3-common-mistakes.html",
+        "wtf-per-minute.html",
         "tips-3-kiss.html"
     ],
     [
@@ -78,5 +80,8 @@
         "tips-5-map.html"
     ],
     "thanks.html",
-    "ruffle.html"
+    [
+        "one-more-thing.html",
+        "ruffle.html"
+    ]
 ]
